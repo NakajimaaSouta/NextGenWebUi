@@ -9,6 +9,7 @@ Still in Progress Wait for update.
 
 # Features
 - API Compatible Support
+- GGUF Support
 - Omnisys
 # Omnisys
 What is Omnysis? 
