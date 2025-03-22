@@ -11,6 +11,7 @@ Still in Progress Wait for update.
 - API Compatible Support
 - GGUF Support
 - Omnisys
+- API Request
 # Omnisys
 What is Omnysis? 
 Omnisys Is a system similar to Exo-Lab Project. Omnysis will manage your cluster or any device that you set up and connected to your local network to process an request from LLM. 
