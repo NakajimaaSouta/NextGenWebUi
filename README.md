@@ -11,7 +11,7 @@ Still in Progress Wait for update.
 - API Compatible Support
 - GGUF Support
 - Omnisys
-- API Request
+- Modern UI
 - 
 # Omnisys
 What is Omnysis? 
